@@ -2,8 +2,8 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
-    background-image: url('https://i.insider.com/5da71e08cc4a0a33495f6203?width=700');
-    background-size: cover;
+    
+    background-size:cover;
   }
   header {
     background-color: #3B5998;
@@ -43,7 +43,7 @@ body {
     justify-content:flex-start;
   }
   section {
-    background-color: #AFAFAF;
+
     margin-bottom: 10px;
     padding: 20px;
     margin:10px;
@@ -60,7 +60,8 @@ body {
     text-align: center;
   }
   footer p {
-    margin: 0;
+    margin: 10px;
+    height: fit-content;
   }
   .info{
     display:flex;
