@@ -54,14 +54,12 @@ body {
     margin: 0;
   }
   footer {
-    background-color: #3B5998;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 10px;
     text-align: center;
   }
   footer p {
     margin: 10px;
-    height: fit-content;
   }
   .info{
     display:flex;
